@@ -1,9 +1,9 @@
 {
-    "name": "varavan/apns-php",
+    "name": "modastic/apns-php",
     "type": "library",
     "description": "Fork of ApnsPHP library",
     "keywords": ["ApnsPHP"],
-    "homepage": "https://github.com/varavan/ApnsPHP",
+    "homepage": "https://github.com/modastic/ApnsPHP",
     "license": "MIT",
     "authors": [
         {
